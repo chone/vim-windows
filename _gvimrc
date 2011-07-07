@@ -1,0 +1,18 @@
+set nocompatible
+colorscheme slate
+set guifont=Courier_New:h10
+syntax on
+set nobackup
+
+set smartindent
+set autoindent
+
+set softtabstop=2
+set shiftwidth=2
+
+set number
+
+set fileencodings=utf-8,gb2312,gbk,gb18030
+set go=tr
+set lines=36
+
